@@ -253,6 +253,20 @@
 	}
 }
 
+.header-btn-small{
+	background:transparent;
+	padding:6px 10px;
+	font-weight:600;
+	color:$white;
+  	box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1);	
+	border:1px solid transparent;
+	border-radius:20px;
+	&:hover{
+		border:1px solid $black;
+		
+	}
+}
+
 
 //--------- End Banner Area -------------//
 
