@@ -2216,7 +2216,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-size: 11px;
   color: #fff;
-  box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1);
   border: 1px solid #fff;
   border-radius: 210px;
   background: transparent;
@@ -2224,7 +2223,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-btn-small:hover {
   border: 1px solid #000;
-  background: transparent;
   color: #fff;
 }
 
